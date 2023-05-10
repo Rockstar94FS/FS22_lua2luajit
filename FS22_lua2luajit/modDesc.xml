@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="60">
+	<author>Rockstar</author>
+
+	<version>1.0.0.0</version>
+
+	<title>lua2luajit</title>
+
+	<description>
+		<en>
+			<![CDATA[lua2luajit]]></en>
+		<de>
+			<![CDATA[lua2luajit]]></de>
+	</description>
+
+	<iconFilename>icon.png</iconFilename>
+
+	<multiplayer supported="true"/>
+
+	<extraSourceFiles>
+		<sourceFile filename="scripts/main.lua"/>
+	</extraSourceFiles>
+</modDesc>
